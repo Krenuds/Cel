@@ -17,3 +17,30 @@ public class TestEvent : GameEvent {
 public class MasterPulseEvent : GameEvent {
 	
 }
+
+public class SelectionEvent : GameEvent {
+
+	public List<Entity> selection { get; private set; }
+
+	public SelectionEvent(List<Entity> selection){
+		this.selection = selection;
+	}
+}
+
+public class StartSelectBoxEvent : GameEvent {
+
+	public Vector3 anchor { get; private set; }
+
+	public StartSelectBoxEvent(Vector3 anchor){
+		this.anchor = anchor;
+	}
+}
+
+public class DragSelectBoxEvent : GameEvent {
+
+	public Vector3 outer { get; private set; }
+
+	public DragSelectBoxEvent(Vector3 outer){
+		this.outer = outer;
+	}
+}

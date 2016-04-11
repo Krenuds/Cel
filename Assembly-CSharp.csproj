@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C213563B-7FB5-B51C-EAF6-A087D2552ABB}</ProjectGuid>
+    <ProjectGuid>{58BE8114-10A7-4E6B-039D-2C8DED46DF22}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -45,6 +45,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Source\Controllers\SelectionController.cs" />
+     <Compile Include="Assets\Source\Controllers\UiController.cs" />
      <Compile Include="Assets\Source\Engine.cs" />
      <Compile Include="Assets\Source\EventManager.cs" />
      <Compile Include="Assets\Source\Events.cs" />
@@ -53,6 +55,7 @@
      <Compile Include="Assets\Source\Models\Level.cs" />
      <Compile Include="Assets\Source\Models\Structure.cs" />
      <Compile Include="Assets\Source\Models\Team.cs" />
+     <Compile Include="Assets\Source\SelectUtil.cs" />
      <Compile Include="Assets\Source\TheoryDataTypes.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
