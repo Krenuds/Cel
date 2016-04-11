@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: fa9ed83ea061648289843526b3a285e3
+timeCreated: 1458581423
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: circleDefendersUI_Score
+    21300002: circleDefendersUI_Diamond
+    21300004: circleDefendersUI_Menu
+    21300006: circleDefendersUI_QuickbarBody
+    21300008: circleDefendersUI_QuickbarCap
+    21300010: circleDefendersUI_ButtonFrame
+    21300012: circleDefendersUI_Button
+    21300014: circleDefendersUI_0
+    21300016: circleDefendersUI_1
+    21300018: circleDefendersUI_2
+    21300020: circleDefendersUI_3
+    21300022: circleDefendersUI_4
+    21300024: circleDefendersUI_5
+    21300026: circleDefendersUI_6
+    21300028: circleDefendersUI_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: circleDefendersUI_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1802
+        width: 630
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+    - name: circleDefendersUI_1
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1668
+        width: 304
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -157}
+        - {x: 152, y: -31}
+        - {x: 152, y: -21}
+        - {x: 148, y: -10}
+        - {x: 148, y: 10}
+        - {x: 152, y: 21}
+        - {x: 152, y: 31}
+        - {x: 26, y: 157}
+        - {x: 11, y: 157}
+        - {x: -10, y: 156}
+        - {x: -11, y: 157}
+        - {x: -26, y: 157}
+        - {x: -152, y: 31}
+        - {x: -152, y: 21}
+        - {x: -148, y: 10}
+        - {x: -148, y: -10}
+        - {x: -152, y: -21}
+        - {x: -152, y: -31}
+        - {x: -26, y: -157}
+    - name: circleDefendersUI_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 938
+        width: 522
+        height: 810
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 245, y: 367}
+        - {x: 261, y: 367}
+        - {x: 261, y: 405}
+        - {x: -261, y: 405}
+        - {x: -261, y: 367}
+        - {x: -245, y: 367}
+        - {x: -245, y: -367}
+        - {x: -261, y: -367}
+        - {x: -261, y: -405}
+        - {x: 261, y: -405}
+        - {x: 261, y: -367}
+        - {x: 245, y: -367}
+      - - {x: -180, y: -340}
+        - {x: -180, y: 341}
+        - {x: -179, y: 341}
+        - {x: -178, y: 342}
+        - {x: 178, y: 342}
+        - {x: 180, y: 341}
+        - {x: 180, y: -341}
+        - {x: 178, y: -342}
+        - {x: -178, y: -342}
+        - {x: -178, y: -341}
+    - name: circleDefendersUI_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 509
+        width: 324
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -161, y: 187.5}
+        - {x: -162, y: 186.5}
+        - {x: -162, y: -185.5}
+        - {x: -161, y: -187.5}
+        - {x: 160, y: -187.5}
+        - {x: 162, y: -186.5}
+        - {x: 162, y: 187.5}
+      - - {x: -99, y: -122.5}
+        - {x: -99, y: 122.5}
+        - {x: -97, y: 124.5}
+        - {x: 97, y: 124.5}
+        - {x: 99, y: 122.5}
+        - {x: 99, y: -122.5}
+        - {x: 97, y: -124.5}
+        - {x: -97, y: -124.5}
+    - name: circleDefendersUI_4
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 272
+        width: 126
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 72}
+        - {x: -63, y: -72}
+        - {x: 63, y: -72}
+        - {x: 63, y: 72}
+    - name: circleDefendersUI_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 272
+        width: 9
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+        - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+        - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+        - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+        - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+        - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+      - - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+        - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+        - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+        - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+        - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+      - - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+        - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+        - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+        - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+      - - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+        - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+        - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+      - - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+        - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+      - - {x: 277, y: 90}
+        - {x: 277, y: 74}
+        - {x: -277, y: 74}
+        - {x: -277, y: 90}
+        - {x: -315, y: 90}
+        - {x: -315, y: -56}
+        - {x: -227, y: -56}
+        - {x: -227, y: -90}
+        - {x: 315, y: -90}
+        - {x: 315, y: 90}
+    - name: circleDefendersUI_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 146
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 54}
+        - {x: -54, y: -54}
+        - {x: 54, y: -54}
+        - {x: 54, y: 54}
+    - name: circleDefendersUI_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 45}
+        - {x: -45, y: -45}
+        - {x: 45, y: -45}
+        - {x: 45, y: 45}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

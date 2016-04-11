@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: e209720caa3744a15a2f1b0e31191ef7
+timeCreated: 1458696034
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GamePieces_ship_collector
+    21300002: GamePieces_energySmall
+    21300004: GamePieces_energyMed
+    21300006: GamePieces_energyLarge
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GamePieces_ship_collector
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 50}
+        - {x: -32, y: 49}
+        - {x: -32, y: -48}
+        - {x: -27, y: -50}
+        - {x: 32, y: -50}
+        - {x: 32, y: 50}
+    - name: GamePieces_energySmall
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 43}
+        - {x: -43, y: 41}
+        - {x: -43, y: -43}
+        - {x: 40, y: -43}
+        - {x: 43, y: -31}
+        - {x: 43, y: 43}
+    - name: GamePieces_energyMed
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 49}
+        - {x: -49, y: 27}
+        - {x: -49, y: -44}
+        - {x: -34, y: -49}
+        - {x: 38, y: -49}
+        - {x: 49, y: -34}
+        - {x: 49, y: 27}
+        - {x: 33, y: 49}
+    - name: GamePieces_energyLarge
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: 62}
+        - {x: 54, y: 97}
+        - {x: -47, y: 97}
+        - {x: -71, y: 85}
+        - {x: -97, y: 45}
+        - {x: -97, y: -28}
+        - {x: -95, y: -54}
+        - {x: -66, y: -92}
+        - {x: -34, y: -97}
+        - {x: 44, y: -97}
+        - {x: 53, y: -95}
+        - {x: 91, y: -66}
+        - {x: 97, y: -28}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

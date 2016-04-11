@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 01caa2fa169578443a9680373bd07d84
+timeCreated: 1458282113
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shapes_0
+    21300002: shapes_1
+    21300004: shapes_2
+    21300006: shapes_3
+    21300008: shapes_4
+    21300010: shapes_5
+    21300012: shapes_6
+    21300014: shapes_7
+    21300016: shapes_8
+    21300018: shapes_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: shapes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 50}
+        - {x: -50, y: 44}
+        - {x: -50, y: -31}
+        - {x: -37, y: -50}
+        - {x: 19, y: -50}
+        - {x: 50, y: -41}
+        - {x: 50, y: 50}
+      - - {x: -28, y: 4}
+        - {x: 4, y: 28}
+        - {x: 21, y: 17}
+        - {x: 28, y: -4}
+        - {x: 17, y: -21}
+        - {x: -4, y: -28}
+    - name: shapes_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+      - - {x: -30, y: 30}
+        - {x: 30, y: 30}
+        - {x: 30, y: -30}
+        - {x: -30, y: -30}
+    - name: shapes_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 50}
+        - {x: -50, y: 11}
+        - {x: -50, y: -3}
+        - {x: -11, y: -50}
+        - {x: 3, y: -50}
+        - {x: 50, y: -3}
+        - {x: 50, y: 3}
+        - {x: 3, y: 50}
+    - name: shapes_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 50}
+        - {x: -50, y: -44}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: -44}
+        - {x: 3, y: 50}
+    - name: shapes_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: -27}
+        - {x: 37, y: 33}
+        - {x: 15, y: 50}
+        - {x: -15, y: 50}
+        - {x: -50, y: -19}
+    - name: shapes_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 50}
+        - {x: -50, y: 27}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 35}
+        - {x: 30, y: 50}
+    - name: shapes_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 50}
+        - {x: -50, y: 28}
+        - {x: -50, y: -27}
+        - {x: -14, y: -50}
+        - {x: 7, y: -50}
+        - {x: 50, y: -27}
+        - {x: 50, y: 28}
+        - {x: 28, y: 50}
+    - name: shapes_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 27}
+        - {x: -50, y: 3}
+        - {x: -50, y: -5}
+        - {x: -2, y: -27}
+        - {x: 7, y: -27}
+        - {x: 50, y: -3}
+        - {x: 50, y: 5}
+        - {x: 2, y: 27}
+    - name: shapes_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 50}
+        - {x: -27, y: 26}
+        - {x: -27, y: -28}
+        - {x: -17, y: -50}
+        - {x: 13, y: -50}
+        - {x: 27, y: -34}
+        - {x: 27, y: 26}
+        - {x: 3, y: 50}
+    - name: shapes_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 50}
+        - {x: -50, y: 27}
+        - {x: -50, y: -27}
+        - {x: -27, y: -50}
+        - {x: 27, y: -50}
+        - {x: 50, y: -27}
+        - {x: 50, y: 27}
+        - {x: 27, y: 50}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
