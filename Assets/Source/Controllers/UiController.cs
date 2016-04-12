@@ -7,8 +7,15 @@ public class UiController {
 	GameObject canvas;
 	RectTransform rectTransform;
 	Vector2 anchor;
+<<<<<<< HEAD
 
 	public UiController() {
+=======
+	public Level level;
+
+	public UiController(Level level) {
+		this.level = level;
+>>>>>>> 56ffbcb84a4803e7a8c230a6fab0e78ffb2ab7be
 		selectboxObject = GameObject.Find("Selectbox");
 		rectTransform = selectboxObject.GetComponent<RectTransform>();
 		canvas = GameObject.Find("Canvas");

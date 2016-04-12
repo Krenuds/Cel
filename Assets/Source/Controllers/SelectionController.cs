@@ -13,6 +13,11 @@ public class SelectionController {
 	private Vector3 outer;
 	private bool hasActiveBox;
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 56ffbcb84a4803e7a8c230a6fab0e78ffb2ab7be
 	public SelectionController(Level level){
 		this.level = level;
 		selection = new List<Entity>();
@@ -29,17 +34,30 @@ public class SelectionController {
 
 		selection.Add(entity);
 
+<<<<<<< HEAD
 		//entity.transform.Find("Halo").gameObject.SetActive(true);
+=======
+		entity.transform.Find("Halo").gameObject.SetActive(true);
+>>>>>>> 56ffbcb84a4803e7a8c230a6fab0e78ffb2ab7be
 	}
 
 	private void AddAllWithinBounds() {
 		Bounds bounds = SelectUtil.GetViewportBounds(Camera.main, anchor, outer);
 
+<<<<<<< HEAD
 //		this.level.playerTeam.ForEach( (Entity entity) => {
 //			if (SelectUtil.IsWithinBounds(Camera.main, bounds, entity.transform.position)) {
 //				AddToSelection(entity);
 //			}
 //		});
+=======
+		foreach (Entity entity in this.level.playerTeam.mates) {
+			if (SelectUtil.IsWithinBounds(Camera.main, bounds, entity.transform.position)) {
+				Debug.Log ("Added");
+				AddToSelection(entity);
+			}
+		}
+>>>>>>> 56ffbcb84a4803e7a8c230a6fab0e78ffb2ab7be
 	}
 
 	private void AddSingleEntity() {
@@ -54,9 +72,15 @@ public class SelectionController {
 
 	private void RemoveAllSelections() {
 
+<<<<<<< HEAD
 //		foreach (Entity entity in selection) {
 //			entity.transform.Find("Halo").gameObject.SetActive(false);
 //		}
+=======
+		foreach (Entity entity in selection) {
+			entity.transform.Find("Halo").gameObject.SetActive(false);
+		}
+>>>>>>> 56ffbcb84a4803e7a8c230a6fab0e78ffb2ab7be
 
 		selection.Clear();
 	}

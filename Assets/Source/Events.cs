@@ -44,3 +44,14 @@ public class DragSelectBoxEvent : GameEvent {
 		this.outer = outer;
 	}
 }
+<<<<<<< HEAD
+=======
+
+public class WaypointSetEvent : GameEvent {
+	public Vector2 waypoint;
+
+	public WaypointSetEvent (Vector2 waypoint) {
+		this.waypoint = waypoint;
+	}
+}
+>>>>>>> 56ffbcb84a4803e7a8c230a6fab0e78ffb2ab7be
